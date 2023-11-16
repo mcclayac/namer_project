@@ -49,7 +49,7 @@ class MyHomePage extends StatelessWidget {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text('A random AWSOME State idea 10:'),
+          Text('A random AWSOME State idea 12:'),
           //Text(appState.current.asSnakeCase),
           BigCard(pair: pair),
           ElevatedButton(
