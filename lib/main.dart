@@ -68,7 +68,7 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             //Text('A random AWSOME State idea 13:'),
-            Text('Version #14'),
+            Text('Version #15'),
             //Text(appState.current.asSnakeCase),
             BigCard(pair: pair),
             SizedBox(
