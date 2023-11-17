@@ -166,7 +166,7 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text('Version #17'),
+          Text('Version #18'),
           BigCard(pair: pair),
           SizedBox(height: 10),
           Row(
